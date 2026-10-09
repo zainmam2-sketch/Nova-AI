@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Intelligent AI assistant powered by Gemini for conversation, coding, writing, audio speech, and visual analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
